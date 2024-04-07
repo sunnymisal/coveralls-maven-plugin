@@ -3,7 +3,7 @@ package org.eluder.coveralls.maven.plugin;
 /*
  * #[license]
  * coveralls-maven-plugin
- * %%
+ //* %%
  * Copyright (C) 2013 - 2016 Tapio Rautonen
  * %%
  * Permission is hereby granted, free of charge, to any person obtaining a copy
